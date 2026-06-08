@@ -1,4 +1,4 @@
-# ETL-Weather-Pipeline-CDMX-Automated-Data-Pipeline
+# ETL-Weather Pipeline CDMX Automated DataPipeline
 An automated ETL pipeline that extracts real-time weather data from a REST API, transforms it into an analytical format, loads it to SQLite, and generates a daily Excel report fully automated with Windows Task Scheduler.
 
 ## Business Objective
